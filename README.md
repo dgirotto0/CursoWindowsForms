@@ -14,11 +14,11 @@ Este é um repositório destinado a ensinar e facilitar o entendimento sobre o d
 
 1. **Exemplos Práticos:** Veja como criar aplicações Windows Forms úteis e prontas para o dia a dia. Aqui, você não vai ver apenas o básico, você encontrará tópicos como:
 
-       -**Consulta de CPF:** Aprenda a integrar funcionalidades de consulta de CPF em suas aplicações.  
+   - **Consulta de CPF:** Aprenda a integrar funcionalidades de consulta de CPF em suas aplicações.  
   
-       -**Consulta CEP:** Desenvolva a habilidade de integrar serviços de consulta de CEP para enriquecer suas aplicações com informações de endereço de forma fácil e rápida.
+   - **Consulta CEP:** Desenvolva a habilidade de integrar serviços de consulta de CEP para enriquecer suas aplicações com informações de endereço de forma fácil e rápida.
   
-       -**Medição de Senhas:** Descubra como implementar verificações de força de senha. Adeus às senhas fracas! Vamos explorar técnicas para garantir que suas aplicações promovam boas práticas de segurança.
+   - **Medição de Senhas:** Descubra como implementar verificações de força de senha. Adeus às senhas fracas! Vamos explorar técnicas para garantir que suas aplicações promovam boas práticas de segurança.
 
 2. **Controles Básicos:** Exploração de controles básicos como botões, caixas de texto e rótulos.
 
